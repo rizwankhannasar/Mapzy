@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Map App (Leaflet + OpenStreetMap)
 
 A minimal, keyless map app: Leaflet map with OSM raster tiles, a Nominatim
@@ -33,3 +34,6 @@ is only served by it.)
 - **Adding keys later:** put them in `.env` (`KEY=value`). `serve.py` exposes
   them as `window.APP_CONFIG` via `/config.js`; read them in `app.js` as
   `config.SOME_API_KEY`. `.env` is git-ignored.
+=======
+# Mapzy
+>>>>>>> 41b31c9d8598fa3fe13f5af1c59896d621d495ca
